@@ -1,4 +1,0 @@
-[default]
-entity: l2k2
-project: color
-base_url: https://api.wandb.ai
