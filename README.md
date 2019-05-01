@@ -12,13 +12,10 @@ $ wandb login
 $ python color.py
 ```
 
+
 ## Submitting your results
 
-You'll can submit your best runs to our [benchmark](https://app.wandb.ai/wandb/colorizer-applied-dl/benchmark). The user who submits the top result will receive a fully-paid scholarship to our [Applied Deep Learning](https://www.wandb.com/applied-deep-learning) course in San Francisco (6 weeks, 2 evening hours per week, attendance in person required).
-
-## Deadline
-
-The deadline for submissions is 6pm PT on Monday April 22nd, 2019.
+You'll can submit your best runs to our [benchmark](https://app.wandb.ai/wandb/colorizer-applied-dl/benchmark).
 
 
 ## Evaluation
