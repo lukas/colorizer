@@ -14,7 +14,7 @@ import cv2
 from keras import backend as K
 from skimage import io, color
 
-run = wandb.init()
+run = wandb.init(project='colorizer-applied-dl')
 config = run.config
 
 config.num_epochs = 1

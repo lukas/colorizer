@@ -3,3 +3,4 @@ wandb
 tensorflow
 pillow
 opencv-python
+scikit-image
